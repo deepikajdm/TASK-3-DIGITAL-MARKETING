@@ -13,6 +13,7 @@
 **MENTOR**: NEELA SANTOSH
 
 # DESCRIPTION OF TASK 3
+Created a search engine optimization(SEO) plan document including summary, goals and KPI, keyword strategy, backlink building, technical SEO, content strategy, reporting and analysis and SEO implementation checklist with timeline overview. I googled about how the document is created and their content flow.
 
 ## OUTPUT
 
